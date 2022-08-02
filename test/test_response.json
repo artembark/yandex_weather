@@ -1,0 +1,79 @@
+{
+  "now": 1658580053,
+  "now_dt": "2022-07-23T12:40:53.245328Z",
+  "info": {
+    "url": "https://yandex.ru/pogoda/2?lat=59.938237&lon=30.323663",
+    "lat": 59.938237,
+    "lon": 30.323663
+  },
+  "fact": {
+    "obs_time": 1658577600,
+    "temp": 26,
+    "feels_like": 28,
+    "temp_water": 21,
+    "icon": "ovc",
+    "condition": "overcast",
+    "wind_speed": 2,
+    "wind_dir": "w",
+    "pressure_mm": 755,
+    "pressure_pa": 1006,
+    "humidity": 68,
+    "daytime": "d",
+    "polar": false,
+    "season": "summer",
+    "wind_gust": 9
+  },
+  "forecast": {
+    "date": "2022-07-23",
+    "date_ts": 1658523600,
+    "week": 29,
+    "sunrise": "04:18",
+    "sunset": "21:51",
+    "moon_code": 5,
+    "moon_text": "moon-code-5",
+    "parts": [
+      {
+        "part_name": "evening",
+        "temp_min": 20,
+        "temp_avg": 22,
+        "temp_max": 24,
+        "temp_water": 21,
+        "wind_speed": 2,
+        "wind_gust": 6.7,
+        "wind_dir": "w",
+        "pressure_mm": 756,
+        "pressure_pa": 1007,
+        "humidity": 82,
+        "prec_mm": 0.6,
+        "prec_prob": 30,
+        "prec_period": 360,
+        "icon": "bkn_-ra_d",
+        "condition": "light-rain",
+        "feels_like": 24,
+        "daytime": "d",
+        "polar": false
+      },
+      {
+        "part_name": "night",
+        "temp_min": 18,
+        "temp_avg": 18,
+        "temp_max": 19,
+        "temp_water": 20,
+        "wind_speed": 1.7,
+        "wind_gust": 4.6,
+        "wind_dir": "w",
+        "pressure_mm": 756,
+        "pressure_pa": 1007,
+        "humidity": 96,
+        "prec_mm": 0,
+        "prec_prob": 0,
+        "prec_period": 360,
+        "icon": "bkn_n",
+        "condition": "cloudy",
+        "feels_like": 19,
+        "daytime": "n",
+        "polar": false
+      }
+    ]
+  }
+}

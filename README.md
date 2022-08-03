@@ -5,3 +5,5 @@ Flutter package to get current weather and weather forecast from Yandex Weather 
 NOTE!: Current version works only with 'Weather on site' billing plan, including 50 free 
 requests per day.
 
+Inspired by [Yandex Geocoder Flutter Package](https://pub.dev/packages/yandex_geocoder)
+
